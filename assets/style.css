@@ -1,0 +1,37 @@
+.img-navbar {
+  width: 30px;
+}
+
+.isi {
+  margin-top: 140px;
+}
+
+.img-google {
+  width: 250px;
+}
+
+.form-control {
+  border-radius: 30px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+a {
+  padding: 5px;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.bg-lavender {
+  background-color: lavender;
+}
